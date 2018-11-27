@@ -95,7 +95,7 @@
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
 | 01  | 함기훈 | @progh2 | [mycatcode저장소](https://github.com/progh2/mycatcode) |  
-| 02  |  | @ | [mycatcode저장소]() |  
+| 99  | 함기훈 | @progh2 | [mycatcode저장소](https://github.com/progh2/mycatcode2) |  
 | 03  |  | @ | [mycatcode저장소]() |  
 
 ### 2.1 2학년 1반
