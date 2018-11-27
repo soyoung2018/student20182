@@ -119,7 +119,7 @@
 | 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
-| 13  |  | @ | [mycatcode저장소]() |  
+| 13  |이서주| @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
