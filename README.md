@@ -116,7 +116,7 @@
 | 07  |  | @ | [mycatcode저장소]() |  
 | 08  |  | @ | [mycatcode저장소]() |  
 | 09  |  | @ | [mycatcode저장소]() |  
-| 10  |  | @ | [mycatcode저장소]() |  
+| 10  | 유란주 | @ranjuyou | [mycatcode저장소]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
 | 13  |  | @ | [mycatcode저장소]() |  
