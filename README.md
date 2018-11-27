@@ -113,8 +113,8 @@
 | 04  |김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
-| 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) |  
-| 08  |  | @ | [mycatcode저장소]() |  
+| 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) | 
+| 08  | 박희경 | @HeekyoungPark | [mycatcode저장소](https://github.com/HeekyoungPark/myacatcode.git) |  
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
