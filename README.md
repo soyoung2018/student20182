@@ -125,7 +125,7 @@
 | 16  |  | @ | [mycatcode저장소]() |  
 | 17  |  | @ | [mycatcode저장소]() |  
 | 18  |  | @ | [mycatcode저장소]() |  
-| 19  |  | @ | [mycatcode저장소]() |  
+| 19  | 최민성 | @minsung8587 | [mycatcode저장소](https://github.com/minsung8587/mycatcode) |  
 | 20  |  | @ | [mycatcode저장소]() |  
 
 ### 2.2 2학년 2반
