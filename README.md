@@ -118,7 +118,7 @@
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
-| 12  |  | @ | [mycatcode저장소]() |  
+| 12  | 이규빈 | @binkalos | [mycatcode저장소](https://github.com/binkalos/mycatcode) |  
 | 13  |  | @ | [mycatcode저장소]() |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
