@@ -140,7 +140,7 @@
 | 07  |  | @ | [mycatcode저장소]() |  
 | 08  |  | @ | [mycatcode저장소]() |  
 | 09  |  | @ | [mycatcode저장소]() |  
-| 10  |  | @ | [mycatcode저장소]() |  
+| 10  | 신선영 | @shinsunyoung | [mycatcode저장소](https://github.com/shinsunyoung/mycatcode) |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
 | 13  |  | @ | [mycatcode저장소]() |  
