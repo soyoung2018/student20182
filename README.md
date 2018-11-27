@@ -143,7 +143,7 @@
 | 10  |  | @ | [mycatcode저장소]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
-| 13  |  | @ | [mycatcode저장소]() |  
+| 13  | 이유진 | @2ujin | [mycatcode저장소](https://github.com/2ujin/student20182) |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
