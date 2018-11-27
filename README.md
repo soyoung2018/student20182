@@ -138,7 +138,7 @@
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  |  | @ | [mycatcode저장소]() |  
-| 08  |  | @ | [mycatcode저장소]() |  
+| 08  |방채연| @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  |  | @ | [mycatcode저장소]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
