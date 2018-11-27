@@ -68,14 +68,20 @@
 
 스테이징이 잘 되었다면 커밋합니다.
 
-> git commit -m "Add <Your-name> to Contributor list"
+> git commit -m "`학번` `이름` 추가"
 
-<Your-name>을 여러분의 이름으로 바꿉니다.
+예시:
+> git commit -m "2799 함기훈 추가"
+
+커밋 메시지는 여러분의 학번과 이름으로 합니다.
 
 ### 1.5 변경사항을 깃허브에 푸시하기
 `git push` 명령으로 변경내역을 푸시합니다. 이미 원격저장소가 있는 프로젝트를 클론해왔기 때문에 원격저장소 주소는 이미 origin으로 등록되어 있습니다. `<브랜치이름>`은 앞에서 checkout 명령으로 생성한 이름을 적어줍니다.
 
-`git push origin <브랜치이름>'
+> git push origin `브랜치이름`
+
+예시:
+> git push origin add-2799-gihunham
 
 
 ### 1.6 검토를 하기 위해 변경사항을 제출하기
