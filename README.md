@@ -114,7 +114,7 @@
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  |  | @ | [mycatcode저장소]() |  
-| 08  |  | @ | [mycatcode저장소]() |  
+| 08  | 박희경 | @HeekyoungPark | [mycatcode저장소](https://github.com/HeekyoungPark/myacatcode.git) |  
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  |  | @ | [mycatcode저장소]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
