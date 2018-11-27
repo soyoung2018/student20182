@@ -46,7 +46,7 @@
 
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
-| 99 |  | @ | [mycatcode저장소]() |  
+| 01 | 강남희 | @kangnamhee | [mycatcode저장소](https://github.com/kangnamhee/mycatcode) |  
 
 위와 같이 되어있는 코드를 다음가 같이 자신의 정보로 수정해줍니다.
 
