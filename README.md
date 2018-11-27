@@ -110,7 +110,7 @@
 | 01  | 강윤수 | @yoonsuKang03 | [mycatcode저장소](https://github.com/yoonsuKang03/code-about-yoon.git) |  
 | 02  | 김나연 | @kimnayeon574 | [mycatcode저장소](https://github.com/kimnayeon574/mycatcode) |  
 | 03  |  | @ | [mycatcode저장소]() |  
-| 04  |  | @ | [mycatcode저장소]() |  
+| 04  |김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) |  
