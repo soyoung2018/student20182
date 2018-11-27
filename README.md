@@ -108,15 +108,15 @@
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
 | 01  |  | @ | [mycatcode저장소]() |  
-| 02  |  | @ | [mycatcode저장소]() |  
+| 02  | 김나연 | @kimnayeon574 | [mycatcode저장소](https://github.com/kimnayeon574/mycatcode) |  
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  |  | @ | [mycatcode저장소]() |  
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
-| 07  |  | @ | [mycatcode저장소]() |  
+| 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) |  
 | 08  |  | @ | [mycatcode저장소]() |  
 | 09  |  | @ | [mycatcode저장소]() |  
-| 10  |  | @ | [mycatcode저장소]() |  
+| 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
 | 13  |  | @ | [mycatcode저장소]() |  
@@ -138,18 +138,18 @@
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  |  | @ | [mycatcode저장소]() |  
-| 08  |  | @ | [mycatcode저장소]() |  
+| 08  |방채연| @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  |  | @ | [mycatcode저장소]() |  
-| 11  |  | @ | [mycatcode저장소]() |  
-| 12  |  | @ | [mycatcode저장소]() |  
+| 11  | 신영선 | @YoungSunShin  | [mycatcode저장소](https://github.com/YoungSunShin/mycatcode) |  
+| 12  | 이유정 | @You-J | [mycatcode저장소](https://github.com/You-J/mycatcode) |  
 | 13  |  | @ | [mycatcode저장소]() |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
 | 17  |  | @ | [mycatcode저장소]() |  
 | 18  | 최유라 | @s2017i19 | [mycatcode저장소](https://github.com/s2017i19/mycatcode.git) |  
-| 19  |  | @ | [mycatcode저장소]() |  
+| 19  | 허주희 | @juhee6379 | [mycatcode저장소](https://github.com/heojuhee/mycatcode) |  
 | 20  |  | @ | [mycatcode저장소]() |  
 
 ## 3. 레퍼런스
