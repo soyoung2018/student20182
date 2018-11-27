@@ -108,7 +108,7 @@
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
 | 01  |  | @ | [mycatcode저장소]() |  
-| 02  |  | @ | [mycatcode저장소]() |  
+| 02  | 김나연 | @kimnayeon574 | [mycatcode저장소](https://github.com/kimnayeon574/mycatcode) |  
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  |  | @ | [mycatcode저장소]() |  
 | 05  |  | @ | [mycatcode저장소]() |  
