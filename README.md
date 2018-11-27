@@ -110,8 +110,8 @@
 | 01  | 강윤수 | @yoonsuKang03 | [mycatcode저장소](https://github.com/yoonsuKang03/code-about-yoon.git) |  
 | 02  | 김나연 | @kimnayeon574 | [mycatcode저장소](https://github.com/kimnayeon574/mycatcode) |  
 | 03  |  | @ | [mycatcode저장소]() |  
-| 04  |김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
-| 05  |  | @ | [mycatcode저장소]() |  
+| 04  | 김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
+| 05  | 나연경 | @nayeonkyoung | [https://github.com/nayeonkyoung/mycatcode.git]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  | 박혜정 | @Hyjpark | [mycatcode저장소](https://github.com/Hyjpark/mycatcode) | 
 | 08  | 박희경 | @HeekyoungPark | [mycatcode저장소](https://github.com/HeekyoungPark/myacatcode.git) |  
@@ -119,7 +119,7 @@
 | 10  | 유란주 | @ranjuyou | [https://github.com/ranjuyou/mycatcode]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
 | 12  |  | @ | [mycatcode저장소]() |  
-| 13  |이서주| @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
+| 13  | 이서주 | @seojooLee [mycatcode저장소](https://github.com/seojooLee/mycatcode) |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
@@ -138,7 +138,7 @@
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  | 김하진 | @hjin302 | [mycatcode저장소](https://github.com/hjin302/mycatcode) |  
 | 07  |  | @ | [mycatcode저장소]() |  
-| 08  |방채연| @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
+| 08  | 방채연 | @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  | 신선영 | @shinsunyoung | [mycatcode저장소](https://github.com/shinsunyoung/mycatcode) |  
 | 11  | 신영선 | @YoungSunShin  | [mycatcode저장소](https://github.com/YoungSunShin/mycatcode) |  
