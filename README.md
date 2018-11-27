@@ -107,7 +107,7 @@
 ### 2.1 2학년 1반
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
-| 01  |  | @ | [mycatcode저장소]() |  
+| 01  | 강윤수 | @yoonsuKang03 | [mycatcode저장소](https://github.com/yoonsuKang03/code-about-yoon.git) |  
 | 02  |  | @ | [mycatcode저장소]() |  
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  |  | @ | [mycatcode저장소]() |  
