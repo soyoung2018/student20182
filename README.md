@@ -148,7 +148,7 @@
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
 | 17  |  | @ | [mycatcode저장소]() |  
-| 18  |  | @ | [mycatcode저장소]() |  
+| 18  | 최유라 | @s2017i19 | [mycatcode저장소](https://github.com/s2017i19/mycatcode.git) |  
 | 19  |  | @ | [mycatcode저장소]() |  
 | 20  |  | @ | [mycatcode저장소]() |  
 
