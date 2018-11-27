@@ -123,7 +123,7 @@
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
 | 16  |  | @ | [mycatcode저장소]() |  
-| 17  |  | @ | [mycatcode저장소]() |  
+| 17  | 주미림 | @MirimJu | [mycatcode저장소](https://github.com/MirimJu/mycatcode) |  
 | 18  |  | @ | [mycatcode저장소]() |  
 | 19  |  | @ | [mycatcode저장소]() |  
 | 20  |  | @ | [mycatcode저장소]() |  
