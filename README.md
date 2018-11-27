@@ -132,7 +132,7 @@
 | 번호  | 이름  | Github ID | MyCatCode 저장소 | 
 | :---: |:-------------:| :-----:| :-----:|
 | 01  |  | @ | [mycatcode저장소]() |  
-| 02  |  | @ | [mycatcode저장소]() |  
+| 02  | 강한나 | @Kanghanna | [mycatcode저장소](https://github.com/Kanghanna/student20182) |  
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  |  | @ | [mycatcode저장소]() |  
 | 05  |  | @ | [mycatcode저장소]() |  
