@@ -140,7 +140,7 @@
 | 07  |  | @ | [mycatcode저장소]() |  
 | 08  |방채연| @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
-| 10  |  | @ | [mycatcode저장소]() |  
+| 10  | 신선영 | @shinsunyoung | [mycatcode저장소](https://github.com/shinsunyoung/mycatcode) |  
 | 11  | 신영선 | @YoungSunShin  | [mycatcode저장소](https://github.com/YoungSunShin/mycatcode) |  
 | 12  | 이유정 | @You-J | [mycatcode저장소](https://github.com/You-J/mycatcode) |  
 | 13  |  | @ | [mycatcode저장소]() |  
