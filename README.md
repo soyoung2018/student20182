@@ -142,7 +142,7 @@
 | 09  |  | @ | [mycatcode저장소]() |  
 | 10  |  | @ | [mycatcode저장소]() |  
 | 11  |  | @ | [mycatcode저장소]() |  
-| 12  |  | @ | [mycatcode저장소]() |  
+| 12  | 이유정 | @You-J | [mycatcode저장소](https://github.com/You-J/mycatcode) |  
 | 13  |  | @ | [mycatcode저장소]() |  
 | 14  |  | @ | [mycatcode저장소]() |  
 | 15  |  | @ | [mycatcode저장소]() |  
