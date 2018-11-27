@@ -110,7 +110,7 @@
 | 01  |  | @ | [mycatcode저장소]() |  
 | 02  |  | @ | [mycatcode저장소]() |  
 | 03  |  | @ | [mycatcode저장소]() |  
-| 04  |  | @ | [mycatcode저장소]() |  
+| 04  |김효경 | @ITHYO | [mycatcode저장소](https://github.com/ITHYO/mycatcode) |  
 | 05  |  | @ | [mycatcode저장소]() |  
 | 06  |  | @ | [mycatcode저장소]() |  
 | 07  |  | @ | [mycatcode저장소]() |  
