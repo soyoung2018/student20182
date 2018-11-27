@@ -136,7 +136,7 @@
 | 03  |  | @ | [mycatcode저장소]() |  
 | 04  | 김예빈 | @girincute | [mycatcode저장소](https://github.com/girincute/android-mycatcode) |  
 | 05  |  | @ | [mycatcode저장소]() |  
-| 06  |  | @ | [mycatcode저장소]() |  
+| 06  | 김하진 | @hjin302 | [mycatcode저장소](https://github.com/hjin302/mycatcode) |  
 | 07  |  | @ | [mycatcode저장소]() |  
 | 08  |방채연| @BangChaeYeon | [mycatcode저장소](https://github.com/BangChaeYeon/mycatcode) |  
 | 09  |  | @ | [mycatcode저장소]() |  
